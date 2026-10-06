@@ -1,12 +1,24 @@
-## Hi there 👋
+# Kinefoundry
 
-<!--
+**Data operations for Physical AI.**
 
-**Here are some ideas to get you started:**
+We help robotics teams turn model requirements into collection briefs, organize people and sites, review data quality, and prepare datasets with documented provenance and usage rights.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our approach combines robotics technical fluency with operational execution: clear collection protocols, early sample checks, consistent quality review, and delivery against agreed acceptance criteria.
+
+## What we are building
+
+- Collection workflows built around the task and model.
+- Quality review with traceable decisions and recapture requests.
+- Provenance and permission records linked to each delivery.
+- Delivery manifests that make accepted data easier to inspect and import.
+
+We use third-party capture hardware and partners. The capture method, equipment availability, integration, and output format are scoped for each pilot.
+
+## Start here
+
+- [Website](https://kinefoundry.com)
+- [Collection workflow](https://github.com/kinefoundry/.github/blob/main/docs/collection-workflow.md)
+- [Prototype scope](https://github.com/kinefoundry/.github/blob/main/docs/prototype.md)
+
+Kinefoundry is at an early stage. The initial demo illustrates the workflow using synthetic records; it does not represent a production platform or completed customer deliveries.
