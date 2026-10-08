@@ -1,30 +1,38 @@
 <p align="center">
-  <img src="https://kinefoundry.com/assets/brand/github-profile-banner.jpg" alt="Kinefoundry. Data operations for Physical AI." width="1280">
+  <img src="https://kinefoundry.com/assets/brand/github-profile-banner.jpg" alt="Kinefoundry. Global data. One partner." width="1280">
 </p>
 
-# Intelligence takes shape.
+# Global data. One partner.
 
-**Data operations for Physical AI.**
+**Global collection network for Physical AI.**
 
-Custom data collection for robotics and Physical AI, built around the skill your model needs to learn. We work with your technical team to define the task, capture setup, required signals and quality checks. Start with a sample, then scale what works.
+Kinefoundry connects Physical AI buyers with a global network of data collectors and specialist processors. We qualify suppliers, compare competitive requests for quotation (RFQs), and coordinate collection, processing and delivery through one accountable point of contact.
 
 ## From a clear brief to accepted data
 
-1. **Scope.** Agree the task, variation, capture requirements and acceptance rules.
-2. **Capture.** Coordinate people, permissions and third-party equipment. Record a small sample.
-3. **Review.** Test import, inspect visibility and labels, and resolve issues before production.
-4. **Deliver.** Package the agreed recordings, metadata, review records and documented data rights.
+1. **Define.** Agree the task, hardware, environment, required signals, rights and measurable acceptance criteria.
+2. **Compare.** Invite qualified suppliers to quote the same specification. Compare sample quality, complete delivered cost, capacity and timing.
+3. **Approve.** Review a representative sample with the buyer and processing specialist before authorizing production.
+4. **Deliver.** Coordinate collection, specialist processing, review and corrections. Deliver data in batches against the agreed acceptance criteria.
 
-Human demonstrations, instrumented capture and robot action-state data require different setups. Equipment availability, integration, volume, timing, pricing and rights are agreed for each project.
+We source suppliers globally. The buyer brief determines where we source and which hardware, environments and skills are required. Human demonstrations, instrumented capture and robot action-state data have different requirements; supplier capability, equipment access, capacity and data rights are verified for each project.
 
-## Start with a sample
+## Quality agreed before scale
 
-- [Scope a collection pilot](https://kinefoundry.com/form)
-- [Explore the interactive demo](https://kinefoundry.com/demo/workspace/)
+The approved sample and written specification set the delivery standard. Collectors address capture defects and processing specialists address misses within their agreed scope, while Kinefoundry coordinates resolution. Production data is payable when it meets the agreed criteria. Setup and sample work, review windows and correction terms are scoped separately.
+
+## For collection suppliers
+
+Bring your equipment, skilled collectors and environment access. Kinefoundry develops buyer opportunities, provides a clear brief and manages the buyer relationship. Competitive pricing, dependable quality and reliable delivery can lead to larger repeat programs as buyer demand grows. Orders and capacity are confirmed project by project.
+
+## Start with a brief
+
+- [Share your collection brief](https://kinefoundry.com/form)
+- [Explore specialist processing](https://kinefoundry.com/#processing)
 - [See the collection approach](https://kinefoundry.com/collection/)
 - [Read the collection workflow](https://github.com/kinefoundry/.github/blob/main/docs/collection-workflow.md)
-- [Understand the prototype scope](https://github.com/kinefoundry/.github/blob/main/docs/prototype.md)
+- [Join the collection network](https://kinefoundry.com/network/)
 
-Kinefoundry is at the initial-pilot stage. The demo uses illustrative recordings and test data; it does not represent completed customer deliveries. Production starts after sample approval and an agreed funded scope.
+Start with an approved sample and a funded scope. Expand collection around accepted delivery and repeat demand.
 
 [Website](https://kinefoundry.com) · [LinkedIn](https://www.linkedin.com/company/kinefoundry/) · [X](https://x.com/Kinefoundry) · [Contact](mailto:jason@kinefoundry.com)
