@@ -1,46 +1,41 @@
 # Kinefoundry
 
-**Data operations for Physical AI.**
+**Global robotics data collection. One accountable partner.**
 
-This repository holds our public introduction, collection workflow, and first product demo.
+Kinefoundry connects robotics teams with a global network of data collectors and specialist processors. We manage supplier sourcing, competitive RFQs, sample review and delivery against an agreed specification.
 
-## Explore the work
+## For robotics data buyers
 
-| Material | What it contains |
+One brief gives you comparable quotes and one team to coordinate collection, processing and quality review. We scope egocentric video, robot teleoperation and custom capture around your task, hardware, environment and data rights. Supplier capability, capacity and delivery terms are confirmed per project.
+
+[Discuss a collection brief](https://kinefoundry.com/form) · [How collection works](https://kinefoundry.com/collection/)
+
+## For collection suppliers
+
+Join the network to be considered for relevant buyer briefs. We coordinate requirements and the buyer relationship; suppliers quote against the same scope. Qualification and project awards depend on technical fit, sample quality, price and availability. Joining does not guarantee orders.
+
+[Join the supplier network](https://kinefoundry.com/network/)
+
+## About this repository
+
+This repository contains our company introduction, [collection workflow](docs/collection-workflow.md) and an **offline software demonstration published on 6 October 2026**. The demo illustrates a review interface; its development status is separate from Kinefoundry's managed collection service. Demo records and software milestones are not a record of customer engagements, supplier capacity or delivered datasets.
+
+| Resource | Purpose |
 | --- | --- |
-| [Website](https://kinefoundry.com) | Our approach to collection, quality review, and third-party capture hardware |
-| [Offline demo v0.1](Kinefoundry_Demo_Offline.zip) | Interactive collection brief, review queue, rights holds, and delivery manifest |
-| [Demo walkthrough](Kinefoundry_Demo_Guide.md) | A three-minute tour and prototype limitations |
-| [Collection workflow](docs/collection-workflow.md) | Brief, sample validation, collection, review, and delivery |
-| [Prototype scope](docs/prototype.md) | What works today and the next production milestone |
-| [Organization profile](profile/README.md) | Public Kinefoundry introduction |
+| [Website](https://kinefoundry.com) | Current service information and collection enquiries |
+| [Company profile](profile/README.md) | Buyer and supplier overview |
+| [Collection workflow](docs/collection-workflow.md) | Brief, sample validation, collection, review and delivery |
+| [Offline demo v0.1](Kinefoundry_Demo_Offline.zip) | Synthetic walkthrough of a collection brief, review queue and delivery manifest |
+| [Demo guide](Kinefoundry_Demo_Guide.md) | Setup and walkthrough |
+| [Demo scope](docs/prototype.md) | Software limitations and development ideas |
 
-## Run the demo
+## Offline demo limitations
 
-Download and unzip `Kinefoundry_Demo_Offline.zip`, then open `index.html` in a browser. Keep `app.js`, `style.css`, and the `assets` folder together. Use **Start walkthrough** to explore the workflow and **Reset demo** before a new session. Some browsers restrict local-file storage or downloads.
+Download and unzip `Kinefoundry_Demo_Offline.zip`, then open `index.html` in a browser. Keep `app.js`, `style.css` and the `assets` folder together. Use **Start walkthrough** to explore and **Reset demo** for a new session. Some browsers restrict local-file storage or downloads.
 
-All sample records are synthetic. The demo uses browser-local state and includes no real recordings, signed permissions, shared backend, or model evaluations. It is not a production data store. Review acceptance does not establish buyer acceptance or model improvement.
+All sample records are synthetic. The demo uses browser-local state and includes no real recordings, signed permissions, shared backend or model evaluations. It is not a production data store. A demo review decision does not establish buyer acceptance or model improvement.
 
-## Progress record
+Client information and project materials covered by confidentiality obligations are not published here.
 
-### 6 October 2026
+[Website](https://kinefoundry.com) · [LinkedIn](https://www.linkedin.com/company/kinefoundry/) · [X](https://x.com/Kinefoundry) · [Contact](mailto:jason@kinefoundry.com)
 
-- Established Kinefoundry's public positioning around data operations for Physical AI.
-- Published website updates covering collection operations and third-party capture options.
-- Built an interactive v0.1 demo spanning buyer brief, collection, quality review, and delivery.
-- Added per-episode review decisions, recapture requests, rights holds, coverage totals, and JSON manifest export to the demo.
-- Published the organization profile, workflow guide, and prototype scope on GitHub.
-- Added the existing offline demo and walkthrough to this repository.
-
-These entries record completed materials and prototype features, not customer traction or production deployments.
-
-## Next milestones
-
-- Agree one real pilot brief and acceptance criteria with a technical reviewer.
-- Add sample recording upload and playback.
-- Store episode metadata and verified permissions in a shared backend.
-- Introduce authenticated reviewer roles and a review history.
-- Validate a delivery export against a buyer's importer.
-- Evaluate model usefulness separately from data acceptance where a baseline is available.
-
-Record future progress with substantive artifacts and clear descriptions of what changed.
